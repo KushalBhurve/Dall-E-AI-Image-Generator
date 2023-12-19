@@ -1,5 +1,5 @@
 
-# MERN Stack Website with OpenAI Image Generation
+# MERN Stack Website with AI Image Generation
 
 ## Description
 
