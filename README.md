@@ -26,4 +26,15 @@ This repository contains the source code for a MERN (MongoDB, Express.js, React.
 - **AI Integration:**
   - OpenAI API (Use your own API Keys)
 
- repo by Kushal B R
+## Contributing
+Feel free to contribute to the project by following these steps:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and submit a pull request.
+## Acknowledgments
+- OpenAI for providing the powerful AI image generation API.
+
+## Contact
+Contact
+- For any inquiries, please contact kushalbhurve@gmail.com.
